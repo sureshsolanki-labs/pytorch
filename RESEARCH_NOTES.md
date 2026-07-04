@@ -1,6 +1,6 @@
 # RESEARCH_NOTES
 
-**Domain:** AI Foundation
+**Domain:** AI Foundation & Infra
 **Upstream:** https://github.com/pytorch/pytorch
 **Fork:** https://github.com/sureshsolanki-labs/pytorch
 **Priority:** High
